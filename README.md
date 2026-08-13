@@ -42,3 +42,4 @@ python pnl_demo.py
 ![Сводка](1-svodka.png)
 
 ![По артикулам](2-artikuly.png)
+![Терминал](3-terminal.png)
